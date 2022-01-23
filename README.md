@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VaishnavGhenge
+- 👋 Hi, I’m Vaishnav Ghenge
 - 👀 I’m interested in web development, new technologies like blockchain, bigdata
 - 🌱 I’m currently pursuing bachelore of engineering degree course in computer engineering
 - 💞️ I’m looking to collaborate on web related and artificial intelligence projects
