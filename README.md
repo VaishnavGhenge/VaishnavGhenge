@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavghenge&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavghenge" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishnavghenge" alt="vaishnavghenge" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/vaishnavghenge" target="blank"><img src="https://img.shields.io/twitter/follow/vaishnavghenge?logo=twitter&style=for-the-badge" alt="vaishnavghenge" /></a> </p>
 
 - 🔭 I’m currently working on [Quiz Web App](https://github.com/VaishnavGhenge/quizapp)
