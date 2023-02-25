@@ -31,5 +31,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishnavghenge&show_icons=true&locale=en&layout=compact" alt="vaishnavghenge" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishnavghenge&show_icons=true&locale=en" alt="vaishnavghenge" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavghenge&" alt="vaishnavghenge" /></p>
